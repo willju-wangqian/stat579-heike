@@ -10,5 +10,6 @@ Just regular text in between
 
 another change
 
--Stephen was here
--Dan was here
+- Bo is here
+- Stephen was here
+- Dan was here
