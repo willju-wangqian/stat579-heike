@@ -9,4 +9,7 @@ Just regular text in between
 
 
 another change
-Bo is here
+
+- Bo is here
+- Stephen was here
+- Dan was here
